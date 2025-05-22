@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="218mm"
+   height="218mm"
+   viewBox="0 0 218 218"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
+   sodipodi:docname="logo-em-busca-de-combate.svg"
+   inkscape:export-filename="icone-nao-defende.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.69670056"
+     inkscape:cx="569.82874"
+     inkscape:cy="465.76681"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="1358"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <inkscape:path-effect
+       effect="skeletal"
+       id="path-effect6"
+       is_visible="true"
+       lpeversion="1"
+       pattern="#rect16"
+       copytype="single_stretched"
+       prop_scale="0.41"
+       scale_y_rel="false"
+       spacing="0"
+       normal_offset="0"
+       tang_offset="0"
+       prop_units="false"
+       vertical_pattern="false"
+       hide_knot="false"
+       fuse_tolerance="0" />
+    <inkscape:path-effect
+       effect="skeletal"
+       id="path-effect16"
+       is_visible="true"
+       lpeversion="1"
+       pattern="#rect16"
+       copytype="single_stretched"
+       prop_scale="0.41"
+       scale_y_rel="false"
+       spacing="0"
+       normal_offset="0"
+       tang_offset="0"
+       prop_units="false"
+       vertical_pattern="false"
+       hide_knot="false"
+       fuse_tolerance="0" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="218 : 109 : 1"
+       inkscape:persp3d-origin="109 : 72.666667 : 1"
+       id="perspective7" />
+  </defs>
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#f6e6cb;fill-opacity:1;stroke-width:0.264583"
+       id="rect16"
+       width="17.186256"
+       height="19.871609"
+       x="-174.01085"
+       y="-51.558777" />
+    <path
+       d="m 34.893477,32.467269 c 0,0 -3.644053,144.796791 74.093153,183.127321 0.005,0.002 0.009,0.004 0.0134,0.007 0.005,-0.002 0.009,-0.004 0.0134,-0.007 77.7372,-38.33053 74.09315,-183.127321 74.09315,-183.127321 -32.44271,29.292306 -51.00659,27.032765 -74.0916,5.631697 -0.005,-0.0047 -0.01,-0.0087 -0.015,-0.01343 -0.005,0.0044 -0.009,0.008 -0.014,0.0124 -23.085523,21.402019 -41.649395,23.66211 -74.092633,-5.630664 z m 37.318653,51.212378 29.19098,6.756693 18.26969,4.2292 0.92087,0.213423 7.00268,1.62109 17.7493,4.108277 -10.09964,5.39192 -3.2737,1.7477 -3.6158,1.93011 -9.20513,4.91443 c 0.007,0.0275 1.95349,1.99691 2.52905,2.59674 l 8.99428,9.05061 2.17506,2.1885 3.91036,3.93412 0.69918,0.70384 -1.90583,1.93321 -5.7366,5.81825 -5.1e-4,-5.2e-4 -7.63003,7.75199 -2.95072,-2.85048 -2.98328,-2.88147 -12.78062,-12.3455 -5.382617,10.43605 -2.08101,4.03541 -1.592151,3.08715 -4.57233,8.86561 -3.9672,-16.51733 -6.24303,-25.99377 -7.367509,-30.67306 z"
+       style="fill:#f6e6cb;stroke-width:0.264583"
+       id="path293" />
+    <ellipse
+       style="fill:#f6e6cb;fill-opacity:0;stroke-width:1.701;paint-order:markers fill stroke"
+       id="path22"
+       cx="-114.66456"
+       cy="109.83092"
+       rx="23.899639"
+       ry="38.065495" />
+    <path
+       id="path292"
+       style="fill:#a0937d;fill-opacity:1;stroke-width:1.32729;paint-order:markers fill stroke"
+       d="m 63.913666,75.429433 96.514854,22.983304 -32.27179,18.640653 16.13093,15.9034 -10.95588,11.12527 -3.90566,-3.83923 7.49471,-7.60193 -17.98766,-18.09959 25.72188,-13.73203 -71.723992,-16.602908 z m 7.75e-4,-0.0016 24.13747,96.408307 18.180399,-32.53329 16.13093,15.90341 10.96786,-11.12479 -3.90566,-3.83922 -7.48271,7.60242 -18.35335,-17.72875 -13.365304,25.91434 -17.2385,-71.771984 z"
+       sodipodi:nodetypes="cccccccccccccccccccccc" />
+  </g>
+</svg>
