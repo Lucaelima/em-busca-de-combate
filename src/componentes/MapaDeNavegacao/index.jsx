@@ -12,8 +12,8 @@ const ContainerMapa = styled.div`
     display: flex;
     justify-self: center;
     position: relative;
-    width: 70rem;
-    height: 45rem;
+    width: 55rem;
+    height: 35rem;
     margin-top: 3rem;
     @media screen and (max-width: 570px) {
         width: 30rem;

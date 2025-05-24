@@ -34,6 +34,7 @@ html, body, dialog {
   line-height: 1.6;
   background-color: var(--fundo-primario);
   font-family: var(--fonte-base);
+  font-size: 16px;
   color: var(--texto);
 }
 
