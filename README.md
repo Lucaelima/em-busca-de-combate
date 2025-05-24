@@ -5,7 +5,7 @@ Em Busca de Combate é um jogo que desafia o jogador a ser ágil para vencer nos
 O jogo inclui 3 personagem para o jogador escolher e 5 fases de combates contra inimigos.
 
 <p align="center">
-  <img src="public/captura-tela-de-combate.png" alt="Página de Combate" width="30%" style="vertical-align: top; margin-right: 20px;" />
+  <img src="public/captura-tela-de-combate.png" alt="Página de Combate" width="50%" style="vertical-align: top; margin-right: 20px;" />
 </p>
 
 ## 📜 Como funciona o jogo
