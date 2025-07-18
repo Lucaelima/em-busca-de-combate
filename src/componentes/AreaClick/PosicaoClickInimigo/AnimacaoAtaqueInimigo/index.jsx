@@ -10,13 +10,13 @@ const AnimacaoContainer = styled.div`
     height: 10rem;
     width: 20rem;
     position: absolute;
-    top: 30vh;
-    left: 0;
+    top: 5vw;
+    left: -5vw;
     z-index: 2;
     @media screen and (max-width: 570px) {
         height: 10rem;
-        top: 30vh;
-        left: -71vw;
+        top: 28vh;
+        left: -91vw;
     }
 `
 

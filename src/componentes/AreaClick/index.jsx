@@ -2,6 +2,8 @@ import { memo, useContext } from "react";
 import styled from "styled-components"
 import { PersonagensContext } from "../../context/PersonagensContext";
 import { InimigosContext } from "../../context/InimigosContext";
+import iconeDefender from '/src/componentes/AreaClick/assets/defende-icone.png';
+import iconeNaoDefender from '/src/componentes/AreaClick/assets/nao-defende-icone.png'
 
 const ContainerAreaClick = styled.button`
     background: ${(props) => props.$statusAliado === "atacando" ? 'var(--aliado-cor)' : props.$inimigoCor};
@@ -31,11 +33,11 @@ const ContainerAreaClick = styled.button`
 const iconeAreaClick = (icone) => {
     if (icone === true) {
         return (
-            <img src="/src/componentes/AreaClick/assets/defende-icone.png" alt="Icone defender" draggable="false" />
+            <img src={iconeDefender} alt="Icone defender" draggable="false" />
         );
     } else if (icone === false) {
         return (
-            <img src="/src/componentes/AreaClick/assets/nao-defende-icone.png" alt="Icone não defender" draggable="false" />
+            <img src={iconeNaoDefender} alt="Icone não defender" draggable="false" />
         );
     }
     return null;

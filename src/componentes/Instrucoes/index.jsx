@@ -2,6 +2,7 @@ import { useContext, useEffect, useRef, useState } from "react";
 import styled from "styled-components"
 import { PersonagensContext } from "../../context/PersonagensContext";
 import { InimigosContext } from "../../context/InimigosContext";
+import iconeFechar from '/src/componentes/Instrucoes/assets/icone-fechar.png';
 
 const ModalInstrucoes = styled.dialog`
     background-color: var(--fundo-secundario);
@@ -11,7 +12,7 @@ const ModalInstrucoes = styled.dialog`
     justify-self: center;
     flex-direction: column;
     top: 20vh;
-    height: min-content;
+    max-height: 75vh;
     max-width: 50rem;
     margin: 0.5rem;
     position: fixed;
@@ -49,8 +50,8 @@ const BotaoFechar = styled.button`
     align-self: flex-end;
     align-items: center;
     justify-content: center;
-    height: 4rem;
-    width: 4rem;
+    min-height: 4rem;
+    min-width: 4rem;
     cursor: pointer;
     &:hover {
         background-color: var(--marrom-escuro);
@@ -80,7 +81,7 @@ export default function Instrucoes() {
     return (
         dialogAberto && (
             <ModalInstrucoes ref={dialogRef} onClick={fecharDialog}>
-                <BotaoFechar onClick={fecharDialog}><img src="/src/componentes/Instrucoes/assets/icone-fechar.png" alt="X"></img></BotaoFechar>
+                <BotaoFechar onClick={fecharDialog}><img src={iconeFechar} alt="X"></img></BotaoFechar>
                 {inimigoEscolhido.id === 1 && (
                     <>
                         <h3>Ataque</h3>

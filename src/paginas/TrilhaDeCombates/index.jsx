@@ -9,7 +9,7 @@ export default function TrilhaDeCombates() {
 
     useEffect(() => {
         setStatusInimigo("esperando");
-    }, []);
+    }, [setStatusInimigo]);
 
     return (
         <>
