@@ -3,6 +3,8 @@ import styled from "styled-components"
 import { PersonagensContext } from "../../context/PersonagensContext";
 import { InimigosContext } from "../../context/InimigosContext";
 import iconeFechar from '/src/componentes/Instrucoes/assets/icone-fechar.png';
+import iconeDefender from '/src/componentes/AreaClick/assets/defende-icone.png';
+import iconeNaoDefender from '/src/componentes/AreaClick/assets/nao-defende-icone.png';
 
 const ModalInstrucoes = styled.dialog`
     background-color: var(--fundo-secundario);
@@ -92,7 +94,7 @@ export default function Instrucoes() {
                         <h3>Defesa</h3>
                         <div>
                             Para defender o dano doinimigo aperte no icone de defesa quando ele estiver claro na tela.
-                            <img src="/src/componentes/AreaClick/assets/defende-icone.png" alt="Icone de defesa" />
+                            <img src={iconeDefender} alt="Icone de defesa" />
                         </div>
                     </>
                 )}
@@ -101,7 +103,7 @@ export default function Instrucoes() {
                         <h3>Defesa Errada</h3>
                         <div>
                             Se for apertado no icone de defesa errado quando ele estiver claro na tela, receberá mais dano.
-                            <img src="/src/componentes/AreaClick/assets/nao-defende-icone.png" alt="Icone de defesa" />
+                            <img src={iconeNaoDefender} alt="Icone errado de defesa" />
                         </div>
                     </>
                 )}

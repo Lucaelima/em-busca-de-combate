@@ -58,3 +58,7 @@ Para rodar o projeto em sua máquina local, siga estes passos:
    ```
 
 5. O projeto estará disponível em http://localhost:5173.
+
+## 🎮 Teste a aplicação
+
+Acesse o projeto no [domínio do vercel](https://em-busca-de-combate.vercel.app).
