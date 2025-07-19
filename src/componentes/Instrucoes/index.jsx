@@ -14,7 +14,7 @@ const ModalInstrucoes = styled.dialog`
     justify-self: center;
     flex-direction: column;
     top: 20vh;
-    max-height: 75vh;
+    max-height: 70vh;
     max-width: 50rem;
     margin: 0.5rem;
     position: fixed;
